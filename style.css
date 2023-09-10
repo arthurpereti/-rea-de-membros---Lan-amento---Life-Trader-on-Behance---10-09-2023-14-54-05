@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: rgb(0, 30, 32);
+}
+
+#section01 img {
+    width: 100vw;
+    height: auto;
+}
+
+#section06 img{
+    width: 100vw;
+    height: auto;
+}
+
+/* \/ GLOBAL PARA SECTIONS COM 4 ABAS / */
+
+.tamanho100vwedisplayflexentreasabas {
+    width: 100vw;
+    height: auto;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ^^^^^^ GLOBAL ^^^^ */
+
+.sectionpara4abas {
+    padding: 1rem 0.5rem 0 0.5rem;
+}
+
+.sectionpara4abas img {
+    width: 24.8vw;
+    height: auto;
+}
+
+
+
+.sectionpara3abas {
+    padding: 0.625rem;
+}
+
+.sectionpara3abas img {
+    width: 33.1vw;
+    height: auto;
+}
