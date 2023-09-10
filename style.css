@@ -34,7 +34,7 @@ body {
 /* ^^^^^^ GLOBAL ^^^^ */
 
 .sectionpara4abas {
-    padding: 1rem 0.5rem 0 0.5rem;
+    padding: 0.5rem 0.25rem 0 0.25rem;
 }
 
 .sectionpara4abas img {
@@ -42,10 +42,8 @@ body {
     height: auto;
 }
 
-
-
 .sectionpara3abas {
-    padding: 0.625rem;
+    padding: 0.350rem;
 }
 
 .sectionpara3abas img {
